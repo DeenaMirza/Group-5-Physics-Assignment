@@ -1,2 +1,20 @@
-# Group-5-Physics-Assignment
-A collaborative project completed by Group 5 of 63B as part of the Physics II course requirements. This repository includes our analysis, code, and final documentation for the assignment provided by our respected faculty, Safwan Uddin Ahmed.
+Course Title: Physics II
+Course Code: PHY 123
+
+Submitted to:
+Safwan Uddin Ahmed
+Assistant Professor & Head
+Department of Electrical & Electronic Engineering
+Metropolitan University, Sylhet
+
+Submitted by:
+Deena Mirza — ID: 252-115-083
+Abida Khanom — ID: 252-115-087
+Tajrian Farin — ID: 252-115-089
+Moutushi Singha — ID: 252-115-097
+Batch: CSE-63
+Section: B
+Department: Computer Science and Engineering
+Institution: Metropolitan University, Sylhet
+
+Submission Date: 4 December 2025
